@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Untitled</title>
+
+
+    <link href="kendo/kendo.common.min.css" rel="stylesheet" />
+    <link href="kendo/kendo.common-bootstrap.min.css" rel="stylesheet" />
+    <link href="kendo/kendo.bootstrap.min.css" rel="stylesheet" />
+    <link href="kendo/kendo.dataviz.bootstrap.min.css" rel="stylesheet" />
+    <link href="kendo/kendo.default.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="kendo/kendo.default.mobile.css" />
+    <link href="bootstrap.min.css" rel="stylesheet" />
+    <link href="scrolling-tabs.min.css" rel="stylesheet" />
+
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2019.3.1023/js/angular.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2019.3.1023/js/jszip.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2019.3.1023/js/kendo.all.min.js"></script>
+
+    <script src="angular/angular.min.js"></script>
+    <script src="angular/angular-route.min.js"></script>
+    <script src="angular-ui-scrolling-tabs/scrolling-tabs.min.js"></script>
+    <script src="ui-bootstrap-tpls-0.13.4.min.js"></script>
+    <script src="xml2json.min.js"></script>
+    <script src="appModule.js"></script>
+    <script src="appConfig.js"></script>
+    <script src="w6log.js"></script>
+    <script src="headerTooltip.js"></script>
+    <script src="startController.js"></script>
+    <script src="w6NumericTextbox.js"></script>
+    <script src="w6EmptyNumberValidator.js"></script>
+    <script src="w6ExpressionObserver.js"></script>
+    <script src="ppNumber.js"></script>
+    <script src="HomeController.js"></script>
+    <script src="htmlCompile.js"></script>
+    <script src="w6form.js"></script>
+
+    <style>
+        label {
+            width: 100px;
+            overflow:hidden;
+        }
+
+    </style>
+
+</head>
+<body ng-app="myApp">
+
+    <h1>Hello Wolrd</h1>
+
+
+    <a href="#!empty">Empty tab</a>
+    <a href="#!withNumbericTextbox">tab with numeric textbox</a>
+
+    <div ng-view></div>
+
+    <p>Click on the links to navigate to diffrent tabs</p>
+</body>
+</html>

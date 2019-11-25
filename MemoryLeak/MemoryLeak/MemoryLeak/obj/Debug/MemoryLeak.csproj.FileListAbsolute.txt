@@ -1,0 +1,224 @@
+C:\projects\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll.config
+C:\projects\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\MemoryLeak.pdb
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe.config
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\csc.rsp
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe.config
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\csi.rsp
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.AppContext.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Console.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Compression.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.AccessControl.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Claims.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.ValueTuple.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe.config
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\vbc.rsp
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe
+C:\projects\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csprojAssemblyReference.cache
+C:\projects\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CoreCompileInputs.cache
+C:\projects\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CopyComplete
+C:\projects\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.dll
+C:\projects\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.pdb
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll.config
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\MemoryLeak.pdb
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe.config
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csc.rsp
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe.config
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csi.rsp
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.AppContext.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Console.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Compression.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.AccessControl.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Claims.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.ValueTuple.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe.config
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\vbc.rsp
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csprojAssemblyReference.cache
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CoreCompileInputs.cache
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CopyComplete
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.dll
+C:\Work\Example\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.pdb
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll.config
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\MemoryLeak.pdb
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe.config
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csc.rsp
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe.config
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\csi.rsp
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.AppContext.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Console.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Compression.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Claims.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.ValueTuple.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe.config
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\vbc.rsp
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csprojAssemblyReference.cache
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CoreCompileInputs.cache
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CopyComplete
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.dll
+C:\Users\Henya.Lobl\Documents\Memory Leak with ppNumber\MemoryLeak (2)\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.pdb
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll.config
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\MemoryLeak.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\MemoryLeak.pdb
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\csc.exe.config
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\csc.rsp
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\csi.exe.config
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\csi.rsp
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.AppContext.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Console.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Compression.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Claims.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.ValueTuple.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\vbc.exe.config
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\vbc.rsp
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csprojAssemblyReference.cache
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CoreCompileInputs.cache
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.csproj.CopyComplete
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.dll
+C:\Users\hagit.malach\Desktop\MemoryLeak\MemoryLeak\MemoryLeak\obj\Debug\MemoryLeak.pdb
